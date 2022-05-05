@@ -64,9 +64,5 @@ int main()
         std::cout << std::fixed << "Case #" << ndx++ << ": " << std::setprecision(6) << tp << std::endl;
     }
 
-    std::cin.get();
-    std::cin.get();
-    std::cin.get();
-
     return 0;
 }
